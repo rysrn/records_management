@@ -31,7 +31,7 @@ This project is a Records Management System built with HTML, CSS, PHP, and MySQL
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/records_management.git
+   git clone https://github.com/rysrn/records_management.git
 2. Move the project folder to your XAMPP htdocs directory.
    
 3. Start XAMPP
